@@ -1,6 +1,6 @@
 #=========================================================================#
 <h1 align="center">Hola 👋, Me llamo Jefferson Pulido</h1>
-<h3 align="center">Soy Desarrollador Web Junior, tengo conocimientos básicos en PHP, HTML, CSS y otros... Soy responsable y autodidacta!</h3>
+<h3 align="center">Soy Desarrollador Web Junior, tengo conocimientos <b>básicos</b> en PHP, HTML, CSS y otros... Soy responsable y autodidacta!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
