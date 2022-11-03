@@ -1,4 +1,4 @@
-#=========================================================================#
+
 <h1 align="center">Hola 👋, Me llamo Jefferson Pulido</h1>
 <h3 align="center">Soy Desarrollador Web Junior, tengo conocimientos <b>básicos</b> en PHP, HTML, CSS, Python y JavaScript... Me gusta aprender cosas nuevas dia a dia, ademas me gustan los retos!</h3>
 
