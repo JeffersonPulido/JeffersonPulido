@@ -8,6 +8,8 @@
   al problema planteado.
 </h3>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffersonPulido&langs_count=8)](https://github.com/JeffersonPulido/github-readme-stats)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/jeffersonpulido" target="blank"
