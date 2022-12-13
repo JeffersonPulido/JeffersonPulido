@@ -7,10 +7,10 @@
   líder, me gusta aprender de diferentes áreas y buscar las mejores soluciones
   al problema planteado.
 </h3>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffersonPulido&layout=compact)](https://github.com/JeffersonPulido/github-readme-stats)
-![JeffersonPulido GitHub stats](https://github-readme-stats.vercel.app/api?username=JeffersonPulido&show_icons=true&theme=radical)
-
+<p align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffersonPulido&layout=compact)](https://github.com/JeffersonPulido/github-readme-stats)
+  ![JeffersonPulido GitHub stats](https://github-readme-stats.vercel.app/api?username=JeffersonPulido&show_icons=true&theme=radical)
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/jeffersonpulido" target="blank"
