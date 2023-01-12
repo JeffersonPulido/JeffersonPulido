@@ -4,7 +4,7 @@
     lenguajes mas demandados. Me caracterizo por ser responsable y autónomo, autodidacta y líder, me gusta aprender de
     diferentes áreas y buscar las mejores soluciones al problema planteado.</h3>
 
-<p align="left"> <img
+<p align="center"> <img
         src="https://komarev.com/ghpvc/?username=jeffersonpulido&label=Profile%20views&color=dc3545&style=flat"
         alt="jeffersonpulido" /> </p>
 <h2 align="center">👨‍💻 All my projects and more information is available in my portfolio! https://jeffersonpulido.netlify.app</h2>
@@ -80,6 +80,6 @@
         src="https://github-readme-stats.vercel.app/api/top-langs?username=jeffersonpulido&show_icons=true&theme=synthwave&locale=en&layout=compact"
         alt="jeffersonpulido" /></p>
 
-<p>&nbsp;<img align="center"
+<p>&nbsp;<img align="right"
         src="https://github-readme-stats.vercel.app/api?username=jeffersonpulido&show_icons=true&theme=synthwave&locale=en"
         alt="jeffersonpulido" /></p>
