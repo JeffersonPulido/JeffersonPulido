@@ -76,6 +76,9 @@
 </p>
 <hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeffersonpulido&show_icons=true&locale=en&layout=compact" alt="jeffersonpulido" /></p>
+<h2 align="center">
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeffersonpulido&show_icons=true&locale=en&layout=compact" alt="jeffersonpulido" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeffersonpulido&show_icons=true&locale=en" alt="jeffersonpulido" /></p>
+
+</h2>
