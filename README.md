@@ -76,8 +76,6 @@
 </p>
 <hr>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffersonpulido&show_icons=true&theme=radical)
-    
-<p align="center"><img
-        src="https://github-readme-stats.vercel.app/api?username=JeffersonPulido&show_icons=true&theme=synthwave&locale=en"
-        alt="jeffersonpulido" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeffersonpulido&show_icons=true&locale=en&layout=compact" alt="jeffersonpulido" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeffersonpulido&show_icons=true&locale=en" alt="jeffersonpulido" /></p>
