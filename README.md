@@ -8,7 +8,7 @@
         src="https://komarev.com/ghpvc/?username=jeffersonpulido&label=Profile%20views&color=dc3545&style=flat"
         alt="jeffersonpulido" /> </p>
 <h2 align="center">👨‍💻 All my projects and more information is available in my portfolio! https://jeffersonpulido.netlify.app</h2>
-
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/jeffersonpulido" target="blank"><img align="center"
@@ -18,7 +18,6 @@
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
             alt="jeffersonpulido" height="30" width="40" /></a>
 </p>
-<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
