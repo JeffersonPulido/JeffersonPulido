@@ -76,7 +76,7 @@
 </p>
 <hr>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![JeffersonPulido's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeffersonPulido&show_icons=true&theme=radical)
 
 <p align="center"><img
         src="https://github-readme-stats.vercel.app/api?username=JeffersonPulido&show_icons=true&theme=synthwave&locale=en"
