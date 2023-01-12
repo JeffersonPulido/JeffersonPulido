@@ -76,10 +76,10 @@
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" /> </a>
 </p>
 
-<p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=jeffersonpulido&show_icons=true&theme=synthwave&locale=en&layout=compact"
+<p><img align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=JeffersonPulido&show_icons=true&theme=synthwave&locale=en&layout=compact"
         alt="jeffersonpulido" /></p>
 
-<p>&nbsp;<img align="right"
-        src="https://github-readme-stats.vercel.app/api?username=jeffersonpulido&show_icons=true&theme=synthwave&locale=en"
+<p>&nbsp;<img align="center"
+        src="https://github-readme-stats.vercel.app/api?username=JeffersonPulido&show_icons=true&theme=synthwave&locale=en"
         alt="jeffersonpulido" /></p>
