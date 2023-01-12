@@ -7,7 +7,7 @@
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=jeffersonpulido&label=Profile%20views&color=dc3545&style=flat"
         alt="jeffersonpulido" /> </p>
-<h2>👨‍💻 All my projects and more information is available in my [portfolio](https://jeffersonpulido.netlify.app)</h2>
+<h2 align="center">👨‍💻 All my projects and more information is available in my portfolio! (https://jeffersonpulido.netlify.app)</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
