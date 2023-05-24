@@ -77,5 +77,5 @@
     <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JeffersonPulido&show_icons=true&locale=en&layout=donut" alt="jeffersonpulido" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JeffersonPulido&show_icons=true&theme=transparent" alt="jeffersonpulido" /></p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=JeffersonPulido" alt="jeffersonpulido" /></p>
 </h2>
