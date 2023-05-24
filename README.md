@@ -74,7 +74,7 @@
 <hr>
 
 <h2 align="center">
-    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JeffersonPulido&show_icons=true&locale=en&layout=compact" alt="jeffersonpulido" /></p>
+    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JeffersonPulido&show_icons=true&locale=en&layout=donut" alt="jeffersonpulido" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JeffersonPulido&show_icons=true&theme=transparent" alt="jeffersonpulido" /></p>
 
